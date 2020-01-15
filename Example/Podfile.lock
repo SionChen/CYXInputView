@@ -1,0 +1,16 @@
+PODS:
+  - CYXInputView (0.1.0)
+
+DEPENDENCIES:
+  - CYXInputView (from `../`)
+
+EXTERNAL SOURCES:
+  CYXInputView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CYXInputView: 813862b6cc710bd99f57b9edb4a65a39d2826f3c
+
+PODFILE CHECKSUM: 95adc541564fa6dbd22f3be7790d480eaeb87deb
+
+COCOAPODS: 1.8.4
