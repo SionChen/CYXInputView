@@ -1,6 +1,6 @@
 # CYXInputView
 
-[![CI Status](https://img.shields.io/travis/759856708@qq.com/CYXInputView.svg?style=flat)](https://travis-ci.org/759856708@qq.com/CYXInputView)
+[![CI Status](https://img.shields.io/travis/759856708@qq.com/CYXInputView.svg?style=flat)](https://travis-ci.org/SionChen/CYXInputView)
 [![Version](https://img.shields.io/cocoapods/v/CYXInputView.svg?style=flat)](https://cocoapods.org/pods/CYXInputView)
 [![License](https://img.shields.io/cocoapods/l/CYXInputView.svg?style=flat)](https://cocoapods.org/pods/CYXInputView)
 [![Platform](https://img.shields.io/cocoapods/p/CYXInputView.svg?style=flat)](https://cocoapods.org/pods/CYXInputView)
